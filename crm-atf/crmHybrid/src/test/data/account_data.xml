@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CrmAccountData>
+	<accountdata id = "set1">
+		<accountUserName>testuser1</accountUserName>
+		<accountPhoneNumber>8143657322</accountPhoneNumber>
+		<accounEmail>test@espocrm.com</accounEmail>
+		<accountWebsite>seleniumhq.com</accountWebsite>
+		<accountStreet>suryanagar</accountStreet>
+		<accountcity>IDPL</accountcity>
+		<accountState>Telangana</accountState>
+		<accountPostalCode>500037</accountPostalCode>
+		<accountCountry>India</accountCountry>
+	</accountdata>
+	
+	<accountdata id = "set2">
+		 <accountShipStreet>gandhinagar</accountShipStreet>
+		 <accountShipPhoneNumber>8143657322</accountShipPhoneNumber>
+		 <accountShipCity>balanagr</accountShipCity>
+		 <accountShipState>telangana</accountShipState>
+		 <accounyShipPostalCode>500038</accounyShipPostalCode>
+		 <accountShipCountry>India</accountShipCountry>
+	</accountdata>
+	
+	<accountdata id = "set3">
+	     
+		 <contactsFirstName>Adi</contactsFirstName>
+		 <contactsLastName>Laxmi</contactsLastName>
+		 <contactsEmail>test@gmail.com</contactsEmail>
+		 <contactsaccount>testuser</contactsaccount>
+		
+		 <contactsPhoneNumber>8143657322</contactsPhoneNumber>
+		 <contactsStreet>suryanagar</contactsStreet>
+		 <contactsCity>hyderabad</contactsCity>
+		 <contactsState>telangana</contactsState>
+		 <contactsPostalCode>501301</contactsPostalCode>
+		 <contactsCountry>India</contactsCountry>
+		 <contactsDescription>Goodmorning</contactsDescription>
+	</accountdata>
+	
+	<accountdata id = "set4">
+	      
+		 <contactsFirstName>pranav</contactsFirstName>
+		 <contactsLastName>sathwik</contactsLastName>
+		 <contactsEmail>test1@gmail.com</contactsEmail>
+		 <contactsaccount></contactsaccount>
+		 <contactsPhoneNumber>9885025230</contactsPhoneNumber>
+		 <contactsStreet>gandhinagar</contactsStreet>
+		 <contactsCity>idpl</contactsCity>
+		 <contactsState>telangana</contactsState>
+		 <contactsPostalCode>500037</contactsPostalCode>
+		 <contactsCountry>India</contactsCountry>
+		 <contactsDescription>Goodmorning1</contactsDescription>
+	
+	</accountdata>
+	
+	<accountdata id = "set5">
+		
+		 <oppoName>james</oppoName>
+		 <oppoUparrow></oppoUparrow>
+		 <oppoExixtingAccount>testuser</oppoExixtingAccount>
+		 <oppoButton>Qualification</oppoButton>
+		 <oppoDropDown></oppoDropDown>
+		 <oppoStage>Prospecting</oppoStage>
+		 <oppoAmount>100</oppoAmount>
+		 <oppoProbability></oppoProbability>
+		 <oppoContDropDown>Adi Laxmi</oppoContDropDown>
+		 <oppoCheckBox></oppoCheckBox>
+		 <oppoContSelectButton></oppoContSelectButton>
+		 <oppoCloseDate>03/21/2018</oppoCloseDate>
+		 <oppoContacts></oppoContacts>
+		 <oppoLeadSource>Call</oppoLeadSource>
+		 <oppoDescription>goodmorning</oppoDescription>
+	
+	
+	</accountdata>
+	
+	<accountdata id = "set6">
+	<namer>abc</namer>
+	<rexportpermission>yes</rexportpermission>
+	<ruserpermission>all</ruserpermission>
+	<rassigpermission>team</rassigpermission>
+	<rportpermission>yes</rportpermission>
+	<remailpermission>team</remailpermission>
+	
+</accountdata>
+	
+	
+<accountdata id = "set7">
+	
+	<leadFirstName>user1</leadFirstName>
+	<leadLastName>user1</leadLastName>
+	<leadAccountName>testuser</leadAccountName>
+	 <leadEmail>user@gmail.com</leadEmail>
+	 <leadPhoneNumber>8143657322</leadPhoneNumber>
+	 <leadTitle>Lead</leadTitle>
+	 <leadStreet>suryanagar</leadStreet>
+	 <leadCity>IDPL</leadCity>
+	 <leadState>telangana</leadState>
+	 <leadPostalCode>500037</leadPostalCode>
+	 <leadCountry>India</leadCountry>
+	 <leadWebsite>seleniumhq.com</leadWebsite>
+	 <leadStreet1></leadStreet1>
+	 <leadOpportunityAmount>2</leadOpportunityAmount>
+	 <leadDescription>goodmorning</leadDescription>
+	
+</accountdata>
+
+<accountdata id = "set8">
+    <taskName>taskuser</taskName>
+    <taskParentAccount>Account</taskParentAccount>
+	<taskExistUser>testuser1</taskExistUser>
+	<taskStatus>Started</taskStatus>
+	<taskPriority>Normal</taskPriority>
+	<taskDateStart>Today</taskDateStart>
+	<taskTime>12:00am</taskTime>
+	<taskDateDue>20/03/2018</taskDateDue>
+	<taskDescription>TaskCompleted</taskDescription>
+	<taskAssignUser>Admin</taskAssignUser>
+	
+</accountdata>
+
+<accountdata id = "set9">
+ 
+    <importPhoneNumber>PhoneNumber</importPhoneNumber>
+    <importEmail>Email</importEmail>
+	<importStreet>Street</importStreet>
+	<importCity>City</importCity>
+	<importState>State</importState>
+	<importPostalCode>PostalCode</importPostalCode>
+	<importCountry>Country</importCountry>
+	
+</accountdata>
+	
+</CrmAccountData>
